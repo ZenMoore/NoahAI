@@ -1,5 +1,5 @@
 # OCR@NoahAI
-Optical Character Recognition : The process of analyzing and recognizing image files of text data to obtain text and layout information.\
+Optical Character Recognition : the process of analyzing and recognizing image files of text data to obtain text and layout information.\
 Here is a survey for SceneOCR: [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/pdf/1811.04256.pdf)\
 Waiting for an overview for document OCR and handwritten OCR.
 
@@ -10,4 +10,4 @@ Waiting for an overview for document OCR and handwritten OCR.
 - [ ] waiting for more...
 
 ## About
-[ZenMoore@BUAA](github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.\
+[ZenMoore@BUAA](github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
