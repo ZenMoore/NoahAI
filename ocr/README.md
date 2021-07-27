@@ -10,4 +10,4 @@ Waiting for an overview for document OCR and handwritten OCR.
 - [ ] waiting for more...
 
 ## About
-[ZenMoore@BUAA](github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
+[ZenMoore@BUAA](https://github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
