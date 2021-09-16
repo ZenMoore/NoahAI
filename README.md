@@ -10,4 +10,4 @@ Implementation of some popular models of applied artificial intelligence.
 - will be more...
 
 ## About
-[ZenMoore@BUAA](github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
+[ZenMoore@BUAA](github.com/ZenMoore) is a senior.
